@@ -5,9 +5,10 @@
 
 .Synonyms li {
   font-size: 14px;
-  color: brown;
+  color: #0d5163;
   display: inline-block;
   padding-top: 20px;
   padding-right: 10px;
   line-height: 1px;
+  font-weight: bold;
 }
