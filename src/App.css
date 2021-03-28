@@ -1,3 +1,8 @@
+body {
+  background: #f1d0d3;
+  font-family: sans-serif;
+}
+
 .App-header {
   margin: 40px;
 }
@@ -5,9 +10,22 @@
 .App-header h1 {
   text-align: center;
   margin: 0 auto;
+  font-size: 38px;
+  font-weight: bold;
 }
 
 .App .footer {
   text-align: center;
-  margin: 20px 0px;
+  margin: 20px 0 20px 0;
+  font-weight: bold;
+  color: #573c3c;
+}
+
+.App a {
+  color: #573c3c;
+  transition: all 150ms ease-in-out;
+}
+
+.App a:hover {
+  color: brown;
 }
