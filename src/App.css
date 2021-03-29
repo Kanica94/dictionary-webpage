@@ -1,5 +1,5 @@
 body {
-  background: #cbdfe4;
+  background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
   font-family: sans-serif;
 }
 
@@ -10,23 +10,23 @@ body {
 .App-header h1 {
   text-align: center;
   margin: 0 auto;
-  font-size: 38px;
+  font-size: 48px;
   font-weight: bold;
-  color: #063f4e;
+  color: #a04139;
 }
 
 .App .footer {
   text-align: center;
   margin: 20px 0 20px 0;
   font-weight: bold;
-  color: #0d5163;
+  color: #ffffff;
 }
 
 .App a {
-  color: #0d5163;
+  color: white;
   transition: all 150ms ease-in-out;
 }
 
 .App a:hover {
-  color: #3f8496;
+  color: #6b1007;
 }

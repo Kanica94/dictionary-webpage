@@ -8,7 +8,7 @@
   text-decoration: none;
   font-size: 14px;
   font-weight: bold;
-  color: #0d5163;
+  color: #a04139;
   padding: 8px 15px;
   margin-right: 15px;
   border-radius: 20px;
@@ -16,7 +16,7 @@
 }
 
 .Phonetics a:hover {
-  background: #0d5163;
+  background: #a04139;
   color: white;
 }
 

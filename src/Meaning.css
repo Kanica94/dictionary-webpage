@@ -2,13 +2,13 @@
   font-size: 24px;
   line-height: 1.4;
   font-weight: bold;
-  color: #0d5163;
+  color: #df665b;
   text-transform: capitalize;
 }
 
 .Meaning .definition {
   font-size: 16px;
-  color: #05253b;
+  color: #000000;
 }
 
 .Meaning .example {
