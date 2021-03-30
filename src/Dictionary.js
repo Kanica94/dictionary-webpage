@@ -58,7 +58,7 @@ export default function Dictionary(props) {
               autoFocus={true}
             />
           </form>
-          <div className="hint">i.e. sunset, wine, yoga, plants...</div>
+          <div className="hint">i.e. sunset, waterfall, bali, plants...</div>
         </section>
         <Results results={results} />
         <Photos photos={photos} />

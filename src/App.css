@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+  background-image: linear-gradient(to top, #5e8084 100%, #effdff 100%);
   font-family: sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
   margin: 0 auto;
   font-size: 48px;
   font-weight: bold;
-  color: #a04139;
+  color: #f6feff;
 }
 
 .App .footer {
@@ -33,5 +33,5 @@ body {
 }
 
 .App a:hover {
-  color: #6b1007;
+  color: #c9e1e4;
 }
