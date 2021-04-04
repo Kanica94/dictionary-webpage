@@ -57,6 +57,9 @@ export default function Dictionary(props) {
               defaultValue={props.defaultKeyword}
               autoFocus={true}
             />
+            <button type="submit" class="btn btn-light">
+              Search
+            </button>
           </form>
           <div className="hint">i.e. sunset, waterfall, bali, plants...</div>
         </section>
