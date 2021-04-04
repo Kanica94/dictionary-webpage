@@ -56,6 +56,7 @@ export default function Dictionary(props) {
               onChange={handleKeyword}
               defaultValue={props.defaultKeyword}
               autoFocus={true}
+              size="36"
             />
             <button type="submit" class="btn btn-light">
               Search
