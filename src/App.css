@@ -1,5 +1,8 @@
 body {
-  background-image: linear-gradient(to top, #5e8084 20%, #5e808486 100%);
+  background-image: url(./coffee.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   font-family: sans-serif;
 }
 
@@ -15,23 +18,24 @@ body {
 .App-header h1 {
   text-align: center;
   margin: 0 auto;
-  font-size: 48px;
+  font-size: 54px;
+  letter-spacing: 0.1em;
   font-weight: bold;
-  color: #ffffff;
+  color: #265e64;
 }
 
 .App .footer {
   text-align: center;
   margin: 20px 0 20px 0;
   font-weight: bold;
-  color: #ffffff;
+  color: #265e64;
 }
 
 .App a {
-  color: white;
+  color: #265e64;
   transition: all 150ms ease-in-out;
 }
 
 .App a:hover {
-  color: #c9e1e4;
+  color: rgba(38, 94, 100, 0.658);
 }
